@@ -1,0 +1,10 @@
+li {
+  display: flex;
+}
+.li_element_container {
+  width: 20%;
+}
+.delete_icon {
+  height: 24px;
+  width: 24px;
+}
